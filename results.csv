@@ -1,0 +1,301 @@
+name,actual_publicity,predicted_publicity,is_correct
+페넬로페 리,False,False,True
+로건 리,False,False,True
+마이클 존슨,False,False,True
+사이토 리에,False,False,True
+하퍼 쿠퍼,False,False,True
+후지타 마이,False,False,True
+스칼렛 켈리,False,False,True
+잭슨 모건,False,False,True
+하퍼 리,False,True,False
+콜린 퍼스,True,True,True
+아리아나 미첼,False,False,True
+에블린 리,False,False,True
+스칼렛 로저스,False,False,True
+제시카 토마스,False,False,True
+엘라 미첼,False,False,True
+윌리엄 브라운,False,False,True
+사토 타로,False,False,True
+저스틴 비버,True,True,True
+아리아나 리,False,False,True
+채드윅 보스만,True,True,True
+아야세 하루카,True,True,True
+브래드 피트,True,True,True
+미아 홀,False,False,True
+야마모토 아야,False,False,True
+후쿠야마 마사하루,True,True,True
+릴리안 리,False,False,True
+에바 리,False,False,True
+레이첼 밀러,False,False,True
+아리아나 콕스,False,False,True
+사사키 유미,False,False,True
+오스카 밀러,False,False,True
+카메론 리,False,False,True
+벤자민 윌슨,False,False,True
+제시카 차스테인,True,True,True
+헨리 제임스,False,True,False
+루카스 넬슨,False,False,True
+로건 아담스,False,False,True
+실베스터 스탤론,True,True,True
+나카무라 히로시,False,False,True
+브리 라슨,True,True,True
+임현우,False,False,True
+에밀리슨 리,False,False,True
+오지호,False,True,False
+에바 에드워즈,False,False,True
+톰 히들스턴,True,True,True
+줄리아 로버츠,True,True,True
+박지민,False,True,False
+박지훈,False,False,True
+윤지우,False,False,True
+와타나베 사쿠라,False,False,True
+헨리 리,False,False,True
+메건 홀,False,False,True
+아바 앤더슨,False,False,True
+미아 리,False,False,True
+그레이스 모건,False,False,True
+에이바 리,False,False,True
+오구리 슌,True,True,True
+주드 로,True,True,True
+오태양,False,False,True
+헨리 카빌,True,True,True
+톰 홀랜드,True,True,True
+올리비아 테일러,False,False,True
+벤 애플렉,True,True,True
+앤 해서웨이,True,True,True
+그레이슨 페레즈,False,False,True
+엘라 리,False,False,True
+조이 샌더스,False,False,True
+리암 마틴,False,False,True
+리암 해리스,False,False,True
+빈 디젤,True,True,True
+셀레나 고메즈,True,True,True
+다니엘 리,False,False,True
+데이비드 윌슨,False,False,True
+케이트 윈슬렛,True,True,True
+사토 타케루,True,True,True
+에이든 로저스,False,False,True
+에밀리 존슨,False,False,True
+제이슨 모모아,True,True,True
+가브리엘 쿠퍼,False,False,True
+제인 도우,False,False,True
+아라가키 유이,True,True,True
+카메론 켈리,False,False,True
+에밀리 리,False,False,True
+메이슨 리,False,False,True
+마이클 패스벤더,True,True,True
+클로이 프라이스,False,False,True
+제레미 레너,True,True,True
+카미키 류노스케,True,True,True
+레이첼 벨,False,False,True
+박서준,True,True,True
+다니엘 파웰,False,False,True
+크리스 프랫,True,True,True
+크리스 에반스,True,True,True
+강민호,False,False,True
+안젤리나 졸리,True,True,True
+에드 시런,True,True,True
+존 도우,False,False,True
+에밀리 데이비스,False,False,True
+세바스찬 리,False,False,True
+마츠모토 나나,False,False,True
+소피아 홀,False,False,True
+메이슨 워커,False,False,True
+제인 스미스,False,False,True
+케이트 블란쳇,True,True,True
+김민준,False,False,True
+시바사키 코우,True,True,True
+로버트 패틴슨,True,True,True
+아이유,True,True,True
+스칼렛 워드,False,False,True
+이사벨라 스콧,False,False,True
+제임스 맥어보이,True,True,True
+스칼렛 요한슨,True,True,True
+제임스 테일러,False,False,True
+안나 켄드릭,True,True,True
+산드라 블록,True,True,True
+호소다 타쿠,False,False,True
+가브리엘 카터,False,False,True
+레이첼 리,False,False,True
+에밀리 클락,False,True,False
+에이바 스콧,False,True,False
+임수정,False,True,False
+엘리야 워커,False,False,True
+야마다 켄,False,False,True
+밀라 요보비치,True,True,True
+엘리야 리,False,False,True
+카토 타쿠미,False,False,True
+테일러 스위프트,True,True,True
+오스카 리,False,False,True
+그레이스 리,False,False,True
+제이콥 리,False,False,True
+숀 코너리,True,True,True
+이토 다이치,False,False,True
+신미래,False,False,True
+루퍼트 그린트,True,True,True
+제니퍼 애니스톤,True,True,True
+엘리야 영,False,False,True
+윤서영,False,False,True
+나탈리 포트만,True,True,True
+에밀리슨 콜린스,False,False,True
+아멜리아 클락,False,False,True
+제이콥 벨,False,False,True
+라이언 고슬링,True,True,True
+에바 콜린스,False,False,True
+손예진,True,True,True
+비욘세,True,True,True
+리사 테일러,False,False,True
+루카스 워커,False,False,True
+엠마 왓슨,True,True,True
+존 스미스,False,False,True
+오스카 쿠퍼,False,False,True
+아바 토마스,False,False,True
+레오나르도 디카프리오,True,True,True
+릴리 카터,False,True,False
+마에다 히로키,False,False,True
+엘라 로스,False,False,True
+로버트 다우니 주니어,True,True,True
+매튜 리,False,False,True
+최수민,False,False,True
+세바스찬 로스,False,False,True
+러셀 크로우,True,True,True
+김하늘,False,False,True
+박서연,False,False,True
+김지훈,False,False,True
+이준호,False,True,False
+브라이언 무어,False,False,True
+키무라 아오이,False,False,True
+루카스 그린,False,False,True
+제니퍼 로페즈,True,True,True
+카메론 프라이스,False,False,True
+피어스 브로스넌,True,True,True
+레이첼 와이즈,True,True,True
+야마시타 토모히사,True,True,True
+그레이슨 그린,False,False,True
+카네코 타카시,False,False,True
+휴 잭맨,True,True,True
+크리스 앤더슨,False,False,True
+소피아 클락,False,False,True
+이시하라 사토미,True,True,True
+매튜 베일리,False,False,True
+릴리 아담스,False,False,True
+나가사와 마사미,True,True,True
+휴 그랜트,True,True,True
+제이콥 샌더스,False,False,True
+아놀드 슈워제네거,True,True,True
+페넬로페 파웰,False,False,True
+매튜 해리스,False,False,True
+김태리,True,True,True
+조슈아 마틴,False,False,True
+카와무라 아키라,False,False,True
+리암 니슨,True,True,True
+타나카 유키,False,False,True
+아리아나 그란데,True,True,True
+이병헌,True,True,True
+윌 스미스,True,True,True
+정예은,False,False,True
+신동엽,False,True,False
+하라다 타카시,False,False,True
+정수빈,False,False,True
+조이 리,False,False,True
+소피아 리,False,False,True
+그레이슨 리드,False,False,True
+그레이슨 리,False,False,True
+클로이 리,False,False,True
+가브리엘 리,False,False,True
+벤자민 토마스,False,False,True
+코바야시 미사키,False,False,True
+다니엘 크레이그,True,True,True
+소피아 그린,False,False,True
+아멜리아 잭슨,False,False,True
+마츠모토 준,True,True,True
+에이바 페레즈,False,False,True
+모리 유카,False,False,True
+릴리안 쿠퍼,False,False,True
+노아 해리스,False,False,True
+잭슨 리,False,False,True
+크리스 헴스워스,True,True,True
+조이 리드,False,True,False
+에이든 리,False,False,True
+제이든 로스,False,False,True
+공유,True,True,True
+제니퍼 로렌스,True,True,True
+타케이 에미,True,False,False
+아리아나 베넷,False,False,True
+마이클 B. 조던,True,True,True
+루카스 리,False,False,True
+에밀리 스콧,False,False,True
+제임스 앤더슨,False,False,True
+제이든 베이커,False,False,True
+에블린 리드,False,False,True
+매튜 페레즈,False,False,True
+릴리 홀,False,False,True
+제이슨 스타뎀,True,True,True
+에이든 카터,False,False,True
+하퍼 로저스,False,False,True
+윌리엄 데이비스,False,False,True
+에블린 리처드슨,False,False,True
+시마무라 타쿠야,False,False,True
+이서연,False,False,True
+세바스찬 베넷,False,False,True
+호리키타 마키,True,True,True
+조니 뎁,True,True,True
+맷 데이먼,True,True,True
+다니엘 래드클리프,True,True,True
+알렉스 존슨,False,False,True
+리한나,True,True,True
+벤딕트 컴버배치,True,True,True
+게리 올드먼,True,True,True
+샤를리즈 테론,True,True,True
+제임스 영,False,False,True
+카와사키 유타,False,False,True
+로저 무어,True,True,True
+마크 러팔로,True,True,True
+최지우,False,True,False
+노아 로빈슨,False,False,True
+강동훈,False,False,True
+사무엘 리,False,False,True
+에이바 넬슨,False,False,True
+엘리자베스 올슨,True,True,True
+마이클 케인,True,True,True
+기무라 타쿠야,True,True,True
+클로이 제임스,False,False,True
+미즈하라 키코,True,True,True
+이사벨라 클락,False,False,True
+이사벨라 리,False,False,True
+제이든 콕스,False,False,True
+갤 가돗,True,True,True
+에마 스톤,True,True,True
+스칼렛 리,False,False,True
+세바스찬 브룩스,False,False,True
+이민호,False,True,False
+후지모토 사야카,False,False,True
+에블린 넬슨,False,False,True
+메이슨 로빈슨,False,False,True
+로건 영,False,False,True
+가브리엘 워드,False,False,True
+카리나,True,True,True
+폴 러드,True,True,True
+드웨인 존슨,True,True,True
+니시무라 코지,False,False,True
+페넬로페 브룩스,False,False,True
+오카다 유이,False,False,True
+제이콥 로빈슨,False,False,True
+샬럿 무어,False,False,True
+제이든 리,False,False,True
+사라 데이비스,False,False,True
+송강호,True,True,True
+매튜 리처드슨,False,False,True
+이정재,True,True,True
+사와지리 에리카,True,True,True
+오노 미유,False,False,True
+조이 베일리,False,False,True
+릴리 리,False,False,True
+전지현,True,True,True
+잭슨 베이커,False,False,True
+에밀리 베이커,False,False,True
+니노미야 카즈나리,True,True,True
+니콜 키드먼,True,True,True
+에바 잭슨,False,False,True
+브루스 윌리스,True,True,True
+헨리 에드워즈,False,False,True
