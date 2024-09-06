@@ -73,6 +73,13 @@ accuracy = (results_df['is_correct'].sum() / len(results_df)) * 100
 
 print(f"\nAccuracy: {accuracy:.2f}%")
 
+# 유명인과 일반인 각각의 정확도 계산
+public_accuracy = results_df[results_df['actual_publicity'] == 1]['is_correct'].mean() * 100
+common_accuracy = results_df[results_df['actual_publicity'] == 0]['is_correct'].mean() * 100
+
+print(f"Public Figure Accuracy: {public_accuracy:.2f}%")
+print(f"Common Person Accuracy: {common_accuracy:.2f}%")
+
 # 결과를 CSV 파일로 저장
 results_df.to_csv("check_publicity\\results.csv", index=False)
 print("\nResults saved to 'check_publicity\\results.csv'")
