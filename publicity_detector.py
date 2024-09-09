@@ -5,6 +5,8 @@ import pandas as pd
 import os
 import random
 
+from prompt import check_word_prompt
+
 load_dotenv()
 
 public_name = pd.read_csv("check_publicity\\testset\\public_name.csv")
@@ -20,19 +22,7 @@ sample_data = pd.concat([sample_public, sample_common]).reset_index(drop=True)
 # 이름 리스트를 섞습니다
 sample_data = sample_data.sample(frac=1).reset_index(drop=True)
 
-prompt = """
-You're an investigator who is responsible for checking the user's inputs for check publicity issue.
-Your job is to check the user's input using the following rule: 
-if a name is found, you must check whether that name could cause a publicity issue.
-
-if the name is a public figure, you should return True.
-if the name is not a public figure, you should return False.
-
-Please provide your response in JSON format as follows:
-{
-    "result": boolean
-}
-"""
+prompt = check_word_prompt
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 

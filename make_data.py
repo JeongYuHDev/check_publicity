@@ -66,3 +66,10 @@ common_name = set(common_names)
 marker_2 = [False] * len(common_name)
 df = pd.DataFrame({'name': list(common_name), 'publicity': marker_2})
 df.to_csv(r'testset\common_name.csv', index=False)
+
+df3 = load_csv("testset\team_name.csv", index=False)
+team_name = set(df3['name'])
+df = pd.DataFrame({'name': list(team_name)})
+df.to_csv(r'testset\team_name.csv', index=False)
+
+
